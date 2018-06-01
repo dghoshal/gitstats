@@ -15,7 +15,7 @@ PRE-REQUISITES
 
 Build
 ------
-Download the repository
+Download the [repository](https://github.com/dghoshal/gitstats/releases/download/v1.0.0/gitstats-1.0.0.zip)
 
 To build GitStats, run the setup script:
 
